@@ -1,10 +1,10 @@
 # Hello there!
-This is a Basic UI made using a reference image. 
+This is a Basic UI made using a reference image. (Kindly use desktop view as the site is not optimized small devices)
 
 ### Features in this project
 - _Dark Mode_ -> The dark mode feature is implemented for the website.
 - _Side bar_ -> Sidebar that facilitates Navigation to different pages(3 pages are functional dashboard(responsive), My classes, Instructors(responsive))
-- UI design
+- UI design (desktop view)
 # Getting Started/Installation
 Pretty much the same as the standard react application, so all the usual react-scripts are available to your disposal. So, over here I restricted myself to the instructions to only the essentials.
 ## 1. Clone the repository or download the zip
